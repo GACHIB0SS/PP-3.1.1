@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="PP_2_3_1" />
         <module name="PP_2.3.1_SpringMVC" />
+        <module name="PP-3.1.1" />
       </profile>
     </annotationProcessing>
   </component>
